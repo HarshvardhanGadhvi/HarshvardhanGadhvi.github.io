@@ -53,7 +53,7 @@ This README provides instructions on how to host a resume using Jekyll and GitHu
 - [Markdown Guide](https://www.markdownguide.org/)
 - [Jekyll Documentation](https://jekyllrb.com/docs/)
 - [GitHub Pages Documentation](https://docs.github.com/en/pages)
-- [Modern Technical Writing by Andrew Etter](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation/dp/1514780835)
+- [Modern Technical Writing by Andrew Etter](https://a.co/d/fHoNyD1)
 
 ## FAQ
 
