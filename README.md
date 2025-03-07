@@ -66,4 +66,6 @@ A: Ensure you have committed and pushed your changes to the GitHub repository, a
 ## Credits
 
 - Harshvardhan Gadhavi
+- Jofy Jacob
+- Anton
 - Theme by Jekyll
