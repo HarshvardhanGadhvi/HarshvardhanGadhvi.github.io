@@ -1,5 +1,3 @@
-
-
 # Harshvardhan Gadhavi
 Computer Science Student
 
