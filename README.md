@@ -65,5 +65,5 @@ A: Ensure you have committed and pushed your changes to the GitHub repository, a
 
 ## Credits
 
-- [Your Name]
-- Theme by [Theme Author] (if applicable)
+- Harshvardhan Gadhavi
+- Theme by Jekyll
